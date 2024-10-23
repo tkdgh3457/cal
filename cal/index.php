@@ -6,7 +6,7 @@
     <title>CBM 계산기</title>
 </head>
 <body>
-    <h1>CBM 계산기</h1>
+    <h1>CBM 계산기 </h1>
     <form id="cbmForm">
         <label for="length">길이 (mm): </label>
         <input type="number" id="length" name="length" step="0.01" required><br><br>
